@@ -117,8 +117,3 @@ Analysis code provided originally in Jupyter format and refactored into producti
 
 ---
 
-If you want, I can also generate:
-✅ Badges (Python version, license, stars, etc.)
-✅ A project banner
-✅ A "How It Works" diagram
-Just tell me!
